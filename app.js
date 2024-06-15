@@ -98,7 +98,33 @@ function sell() {
   location.href = "sell.html";
 }
 
-
 function forcalculator() {
+  alert("SignIn Required to view ");
+}
+
+function forPens() {
+  alert("SignIn Required to view ");
+}
+
+function fortextbooks() {
+  alert("SignIn Required to view ");
+}
+
+function fornotebook() {
+  alert("SignIn Required to view ");
+}
+function forScissors() {
+  alert("SignIn Required to view ");
+}
+
+function forBags() {
+  alert("SignIn Required to view ");
+}
+
+function forfiles_folders() {
+  alert("SignIn Required to view ");
+}
+
+function forsteplers() {
   alert("SignIn Required to view ");
 }
