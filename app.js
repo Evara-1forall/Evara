@@ -99,6 +99,6 @@ function sell() {
 }
 
 
-function forSell() {
-  alert("SignIn Required to post your product ads");
+function forcalculator() {
+  alert("SignIn Required to view ");
 }
